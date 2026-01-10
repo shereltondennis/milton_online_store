@@ -852,3 +852,7 @@ img {
     h1 { font-size: 1.8rem; }
     .hero-btns { display: flex; flex-direction: column; gap: 10px; }
 }
+html, body {
+  width: 100%;
+  overflow-x: hidden; /* stops left-right scrolling */
+}
