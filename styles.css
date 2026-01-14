@@ -340,7 +340,7 @@ body {
 .form-container {
     max-width: 800px;
     margin: 0 auto;
-    background: #fff;
+    background: #ece7e7;
     padding: 40px;
     box-shadow: 0 5px 25px rgba(0,0,0,0.1);
 }
